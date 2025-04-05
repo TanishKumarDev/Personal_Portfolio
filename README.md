@@ -105,13 +105,3 @@ your-portfolio/
 Open to improvements and suggestions. Feel free to fork the repo, open issues, or submit PRs.
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License** — free to use, modify, and share.
-
----
-
-Keep building, stay creative, and let your portfolio speak for itself. 🚀
-
----
